@@ -136,6 +136,16 @@ header{
         h2{
             font-size: 35px;
         }
+        img{
+            margin-top: 30px;
+        }
+    }
+}
+@media only screen and (min-width: 430px) and (max-width: 540px) {
+    #second_section{
+        img{
+            margin-top: 30px; 
+        }
     }
 }
 
@@ -184,6 +194,16 @@ header{
         h2{
             font-size: 35px;
         }
+        img{
+            margin-bottom: 20px;
+        }
+    }
+}
+@media only screen and (min-width: 430px) and (max-width: 540px) {
+    #sixth_section{
+        img{
+            margin-bottom: 20px;
+        }
     }
 }
 
@@ -200,6 +220,18 @@ header{
     #seven_section{
         h2{
             font-size: 35px;
+        }
+        img{
+            margin-top: 20px;
+            border-radius: 20px;
+        }
+    }
+}
+@media only screen and (min-width: 430px) and (max-width: 540px) {
+    #seven_section{
+        img{
+            margin-top: 20px;
+            border-radius: 20px;
         }
     }
 }

@@ -120,6 +120,14 @@ header .btn {
   #second_section h2 {
     font-size: 35px;
   }
+  #second_section img {
+    margin-top: 30px;
+  }
+}
+@media only screen and (min-width: 430px) and (max-width: 540px) {
+  #second_section img {
+    margin-top: 30px;
+  }
 }
 #third_section h2 {
   text-align: center;
@@ -158,6 +166,14 @@ header .btn {
   #sixth_section h2 {
     font-size: 35px;
   }
+  #sixth_section img {
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (min-width: 430px) and (max-width: 540px) {
+  #sixth_section img {
+    margin-bottom: 20px;
+  }
 }
 #seven_section h2 {
   font-size: 45px;
@@ -170,6 +186,16 @@ header .btn {
 @media only screen and (min-width: 280px) and (max-width: 428px) {
   #seven_section h2 {
     font-size: 35px;
+  }
+  #seven_section img {
+    margin-top: 20px;
+    border-radius: 20px;
+  }
+}
+@media only screen and (min-width: 430px) and (max-width: 540px) {
+  #seven_section img {
+    margin-top: 20px;
+    border-radius: 20px;
   }
 }
 #eight_section h2 {
